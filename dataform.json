@@ -1,0 +1,7 @@
+
+{
+    "warehouse": "bigquery",
+    "defaultDatabase": "bigquery-public-data",
+    "defaultSchema": "dataform",
+    "defaultLocation": "US"
+}
